@@ -1,0 +1,6 @@
+c:\users\jarvis\documents\visual studio 2012\Projects\Personel\Personel\bin\Debug\Personel.exe.config
+c:\users\jarvis\documents\visual studio 2012\Projects\Personel\Personel\bin\Debug\Personel.exe
+c:\users\jarvis\documents\visual studio 2012\Projects\Personel\Personel\bin\Debug\Personel.pdb
+c:\users\jarvis\documents\visual studio 2012\Projects\Personel\Personel\obj\Debug\Personel.csprojResolveAssemblyReference.cache
+c:\users\jarvis\documents\visual studio 2012\Projects\Personel\Personel\obj\Debug\Personel.exe
+c:\users\jarvis\documents\visual studio 2012\Projects\Personel\Personel\obj\Debug\Personel.pdb
